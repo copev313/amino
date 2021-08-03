@@ -1,1 +1,1 @@
-"# Amino" 
+# Amino
