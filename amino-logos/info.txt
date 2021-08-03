@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Blackout-Midnight
+font link: https://www.theleagueofmoveabletype.com/blackout
+font author: Tyler Finck
+font author site: http://tylerfinck.com/
+Slogan Font: Blackout-Midnight
+
+icon designer: GD Creativ
+icon designer link: /gdcreativ
+        
+{"bg":"#3B0548","icon":"#D32E6B","font":"#D32E6B","slogan":"#e7427f"}
+      
